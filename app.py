@@ -7,7 +7,7 @@ from serp import search_google_web_automation  # Custom function to automate Goo
 from my_functions import get_article_from_url, generate_ideas  # Custom functions for processing articles
 
 # Setting input parameters
-search_query = "AI in marketing"  # The query to search for
+search_query = "Tip to Make Money Online"  # The query to search for
 NUMBER_OF_RESULTS = 10  # Number of search results to process
 
 # Template for the prompt to be used later
